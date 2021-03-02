@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"description": "An FCC Backend Challenge",
 	"main": "server.js",
-	"homepage": "https:chinmaym07.github.io/timestamp-microservice",
+	
 	"scripts": {
 		"start": "node server.js"
 	},
